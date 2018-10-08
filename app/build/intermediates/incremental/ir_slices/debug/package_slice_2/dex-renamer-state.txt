@@ -1,0 +1,4 @@
+#Sun Oct 07 20:58:29 BRT 2018
+base.0=C\:\\Users\\byah_\\.AndroidStudio3.1\\DonaBrasilinaApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

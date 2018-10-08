@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\436bf1d189bf8af7345edd75c4646f55\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\3c3137b5d3ce3c81ca998a44651d530d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2c3695424c308cf1a772a8b5ea7a9552\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\b668e76bb6105f186545464f115ea7ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\56f865f76551131eded84a75097bf1a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\47db1bddea16bcc2513eb38f9b142099\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\054e884b5b3ae1515ae6e37a4441e65c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\ee9fd9c98631b563e8c5c90479a2f2fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5c25f80b043abe2356fc2a12132838b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\abf959d5db1fec80b323de4fcf0916c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\c9e12285f04e5cdf14b3524947802776\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\157f83769046fc3067c6ba7531755aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5bb695c17dce9a2fa4a8c392d146f165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\e3e767b1242f72587aa60879af1d39af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6d02af1b749b30a8fe3ed44eae52fb85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\d594df378e3881a7e05713b3133c8c44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\310240e2594cb324797391dd4ab8bb59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\1a97b640fd84c08a93d31de1b84c4239\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\abab004bcbe4b1595472fa629fe9db82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\8970b571d08b93c65fa0ef63b6a40a83\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3539eb87cd4ce4431f82df95639ecd12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14458fa7797def6fdf85cde5d8b15424\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\046a61f95de9d99b02b61a50116e4238\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\d3cc37d52018f287acc61f57a9c1a4d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\d6980fab9b66a8da68eb26ebcc4d72fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\276c2271f075bc178ed09ba82a0dd7e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\a7ab8b25cbfbea91d0403ecdc66dff5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f78c63c9ae75b237f727ed039737ad8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a0cb80895f1cd5984f1082e61152e23\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:7:5-41:19
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\436bf1d189bf8af7345edd75c4646f55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\436bf1d189bf8af7345edd75c4646f55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2c3695424c308cf1a772a8b5ea7a9552\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2c3695424c308cf1a772a8b5ea7a9552\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\8970b571d08b93c65fa0ef63b6a40a83\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\8970b571d08b93c65fa0ef63b6a40a83\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:10:9-39
+	android:roundIcon
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.byah_.donabrasilina.MainActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.byah_.donabrasilina.DebugActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.byah_.donabrasilina.HomeActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:22:9-24:55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.example.byah_.donabrasilina.CartActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:25:9-27:55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.example.byah_.donabrasilina.NotificationActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:29:13-49
+activity#com.example.byah_.donabrasilina.MyAccountActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:32:13-46
+activity#com.example.byah_.donabrasilina.OrderDetailActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:35:13-48
+activity#com.example.byah_.donabrasilina.OrderActivity
+ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:37:9-39:57
+	android:parentActivityName
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:39:13-55
+	android:theme
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml:37:19-48
+uses-sdk
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\436bf1d189bf8af7345edd75c4646f55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\436bf1d189bf8af7345edd75c4646f55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\3c3137b5d3ce3c81ca998a44651d530d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\3c3137b5d3ce3c81ca998a44651d530d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2c3695424c308cf1a772a8b5ea7a9552\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2c3695424c308cf1a772a8b5ea7a9552\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\b668e76bb6105f186545464f115ea7ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\b668e76bb6105f186545464f115ea7ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\56f865f76551131eded84a75097bf1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\56f865f76551131eded84a75097bf1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\47db1bddea16bcc2513eb38f9b142099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\47db1bddea16bcc2513eb38f9b142099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\054e884b5b3ae1515ae6e37a4441e65c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\054e884b5b3ae1515ae6e37a4441e65c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\ee9fd9c98631b563e8c5c90479a2f2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\ee9fd9c98631b563e8c5c90479a2f2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5c25f80b043abe2356fc2a12132838b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5c25f80b043abe2356fc2a12132838b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\abf959d5db1fec80b323de4fcf0916c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\abf959d5db1fec80b323de4fcf0916c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\c9e12285f04e5cdf14b3524947802776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\c9e12285f04e5cdf14b3524947802776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\157f83769046fc3067c6ba7531755aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\157f83769046fc3067c6ba7531755aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5bb695c17dce9a2fa4a8c392d146f165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5bb695c17dce9a2fa4a8c392d146f165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\e3e767b1242f72587aa60879af1d39af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\e3e767b1242f72587aa60879af1d39af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6d02af1b749b30a8fe3ed44eae52fb85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6d02af1b749b30a8fe3ed44eae52fb85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\d594df378e3881a7e05713b3133c8c44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\d594df378e3881a7e05713b3133c8c44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\310240e2594cb324797391dd4ab8bb59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\310240e2594cb324797391dd4ab8bb59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\1a97b640fd84c08a93d31de1b84c4239\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\1a97b640fd84c08a93d31de1b84c4239\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\abab004bcbe4b1595472fa629fe9db82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\abab004bcbe4b1595472fa629fe9db82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\c801565a5484b2aa3243b01d28c45122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\8970b571d08b93c65fa0ef63b6a40a83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\8970b571d08b93c65fa0ef63b6a40a83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3539eb87cd4ce4431f82df95639ecd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3539eb87cd4ce4431f82df95639ecd12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14458fa7797def6fdf85cde5d8b15424\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14458fa7797def6fdf85cde5d8b15424\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\046a61f95de9d99b02b61a50116e4238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\046a61f95de9d99b02b61a50116e4238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\d3cc37d52018f287acc61f57a9c1a4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\d3cc37d52018f287acc61f57a9c1a4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\d6980fab9b66a8da68eb26ebcc4d72fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\d6980fab9b66a8da68eb26ebcc4d72fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\276c2271f075bc178ed09ba82a0dd7e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\276c2271f075bc178ed09ba82a0dd7e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\a7ab8b25cbfbea91d0403ecdc66dff5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\a7ab8b25cbfbea91d0403ecdc66dff5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f78c63c9ae75b237f727ed039737ad8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f78c63c9ae75b237f727ed039737ad8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a0cb80895f1cd5984f1082e61152e23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\byah_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a0cb80895f1cd5984f1082e61152e23\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\byah_\.AndroidStudio3.1\DonaBrasilinaApp\app\src\main\AndroidManifest.xml
